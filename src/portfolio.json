@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Tech Estore",
+        "image": "https://github.com/poly-singh/Professional_Portfolio/raw/master/assets/Images/TechEstore.png",
+        "github": "https://github.com/MonsAltus/Tech-EStore ",
+        "deploy": "https://lit-crag-72234.herokuapp.com/ ",
+        "topics": "JavaScript, Node.js, MySQL2, Express, Handlebars, Sequelize, Dotenv, and Bulma"
+    },
+    {
+        "id": 2,
+        "name": "Word Party",
+        "image": "https://github.com/poly-singh/Professional_Portfolio/raw/master/assets/Images/word_party.png ",
+        "github": "https://github.com/ericrudeen/word-party",
+        "deploy": "https://ericrudeen.github.io/word-party/",
+        "topics": "Javascript, API, HTML,Tailwind CSS"
+    },
+    {
+        "id": 3,
+        "name": "Code Quiz",
+        "image": "https://github.com/poly-singh/Professional_Portfolio/raw/master/assets/Images/code-quiz_mainpage.png ",
+        "github": " https://github.com/poly-singh/Code_quiz_homework",
+        "deploy": "https://poly-singh.github.io/Code_quiz_homework/",
+        "topics": "HTML,CSS,Javascript,Local Storage"
+    },
+    {
+        "id": 4,
+        "name": "Weather Dashboard",
+        "image": "https://github.com/poly-singh/Professional_Portfolio/raw/master/assets/Images/weatherDashboard.png ",
+        "github": "https://github.com/poly-singh/weatherDashboard",
+        "deploy": "https://poly-singh.github.io/weatherDashboard/",
+        "topics": "moment.js, javascript, jQuery, localStorage, API"
+    }
+    
+] 
