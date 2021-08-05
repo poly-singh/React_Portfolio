@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/poly-singh/React_Portfolio/static/css/main.111b01ff.chunk.css",
-    "main.js": "/poly-singh/React_Portfolio/static/js/main.5e8e778f.chunk.js",
-    "main.js.map": "/poly-singh/React_Portfolio/static/js/main.5e8e778f.chunk.js.map",
-    "runtime-main.js": "/poly-singh/React_Portfolio/static/js/runtime-main.cf70f917.js",
-    "runtime-main.js.map": "/poly-singh/React_Portfolio/static/js/runtime-main.cf70f917.js.map",
+    "main.js": "/poly-singh/React_Portfolio/static/js/main.86a8b03c.chunk.js",
+    "main.js.map": "/poly-singh/React_Portfolio/static/js/main.86a8b03c.chunk.js.map",
+    "runtime-main.js": "/poly-singh/React_Portfolio/static/js/runtime-main.ed2569c4.js",
+    "runtime-main.js.map": "/poly-singh/React_Portfolio/static/js/runtime-main.ed2569c4.js.map",
     "static/css/2.de1bb911.chunk.css": "/poly-singh/React_Portfolio/static/css/2.de1bb911.chunk.css",
-    "static/js/2.fb25e56e.chunk.js": "/poly-singh/React_Portfolio/static/js/2.fb25e56e.chunk.js",
-    "static/js/2.fb25e56e.chunk.js.map": "/poly-singh/React_Portfolio/static/js/2.fb25e56e.chunk.js.map",
-    "static/js/3.650b589b.chunk.js": "/poly-singh/React_Portfolio/static/js/3.650b589b.chunk.js",
-    "static/js/3.650b589b.chunk.js.map": "/poly-singh/React_Portfolio/static/js/3.650b589b.chunk.js.map",
+    "static/js/2.97da7199.chunk.js": "/poly-singh/React_Portfolio/static/js/2.97da7199.chunk.js",
+    "static/js/2.97da7199.chunk.js.map": "/poly-singh/React_Portfolio/static/js/2.97da7199.chunk.js.map",
+    "static/js/3.0fb27bfa.chunk.js": "/poly-singh/React_Portfolio/static/js/3.0fb27bfa.chunk.js",
+    "static/js/3.0fb27bfa.chunk.js.map": "/poly-singh/React_Portfolio/static/js/3.0fb27bfa.chunk.js.map",
     "index.html": "/poly-singh/React_Portfolio/index.html",
     "static/css/2.de1bb911.chunk.css.map": "/poly-singh/React_Portfolio/static/css/2.de1bb911.chunk.css.map",
     "static/css/main.111b01ff.chunk.css.map": "/poly-singh/React_Portfolio/static/css/main.111b01ff.chunk.css.map",
-    "static/js/2.fb25e56e.chunk.js.LICENSE.txt": "/poly-singh/React_Portfolio/static/js/2.fb25e56e.chunk.js.LICENSE.txt"
+    "static/js/2.97da7199.chunk.js.LICENSE.txt": "/poly-singh/React_Portfolio/static/js/2.97da7199.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cf70f917.js",
+    "static/js/runtime-main.ed2569c4.js",
     "static/css/2.de1bb911.chunk.css",
-    "static/js/2.fb25e56e.chunk.js",
+    "static/js/2.97da7199.chunk.js",
     "static/css/main.111b01ff.chunk.css",
-    "static/js/main.5e8e778f.chunk.js"
+    "static/js/main.86a8b03c.chunk.js"
   ]
 }
